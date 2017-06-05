@@ -22,7 +22,7 @@ KODI -> addons -> from zip ->
 (install the modified script.module.pywin32.zip)
 
 
-##What's been modified?
+## What's been modified?
 
 
 - https://github.com/debauchery1st/pywin32_hack/blob/master/script.module.pywin32/lib/pywin32setup.py
