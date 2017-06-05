@@ -18,15 +18,18 @@ You should now have a C:\Python27 directory.
 3. navigate to C:\Python27 in windows explorer. 
 find the python.reg file and add it to the registry. *(read it first, of course)*
 
-
 KODI -> addons -> from zip -> 
 (install the modified script.module.pywin32.zip)
 
+
 ##What's been modified?
 
-script.module.pywin32/lib/x32/pywin32setup.py
+
+- https://github.com/debauchery1st/pywin32_hack/blob/master/script.module.pywin32/lib/pywin32setup.py
+
 
 ## Why was it modified?
+
 
 KODI 17.3 was built with a version of Python27
 that was built with Visual Studio 2015.
