@@ -34,7 +34,7 @@ that was built with Visual Studio 2015.
 The standard version of Python27 is NOT built with Visual Studio 2015.
 
 I tried overwriting with compatible dll files , 
-but KODI kept raising errors about not being about to find them...
+but KODI kept raising errors about not being able to find them...
  even when they were in the same directory. 
 
 For more details, see : 
