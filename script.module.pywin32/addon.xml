@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.pywin32"
+       name="pywin32"
+       version="2.19.0.1"
+       provider-name="Mark Hammond">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+  </requires>
+  <extension point="xbmc.python.module"
+             library="lib" />
+  <extension point="xbmc.addon.metadata">
+    <summary>Python for Windows Extensions</summary>
+    <source>https://github.com/SublimeText/Pywin32</source>
+    <platform>windx</platform>
+    <license>PSF</license>
+  </extension>
+</addon>

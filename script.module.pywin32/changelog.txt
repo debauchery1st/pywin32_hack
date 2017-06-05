@@ -1,0 +1,8 @@
+2.19.0.1
+pywintypes error work-around - debauchery1st
+
+2.19
+Version bump
+
+1.0
+First release
