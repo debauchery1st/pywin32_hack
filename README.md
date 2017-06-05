@@ -37,6 +37,5 @@ I tried overwriting with compatible dll files ,
 but KODI kept raising errors about not being about to find them...
  even when they were in the same directory. 
 
-
-For more details, see :
-- *script.module.pywin32/lib/x32/pywin32setup.py*
+For more details, see : 
+- https://github.com/debauchery1st/pywin32_hack/blob/master/script.module.pywin32/lib/pywin32setup.py
